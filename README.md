@@ -16,4 +16,8 @@ A sophomore Computer Science Engineering undergraduate from India.
 ---
 [![](https://visitcount.itsvg.in/api?id=ksh-20&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ksh-20/ksh-20/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
