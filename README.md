@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitij</h1>
 
 # 💫 About Me:
-A sophomore Computer Science Engineering undergraduate from India who is interested in various technologies
+A sophomore Computer Science Engineering undergraduate from India.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kshitij-srinivasan-b84449281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitij24.srinivasan@gmail.com) 
