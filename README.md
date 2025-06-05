@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kshitij</h1>
 
 # 💫 About Me:
-A sophomore Computer Science Engineering undergraduate from India.
+I am a junior year student at VIT Chennai pursuing B.Tech in Computer Science and Engineering with a strong interest in machine learning, robotics, and software development. I am passionate about building intelligent systems and exploring how emerging technologies can be applied to solve real-world problems.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kshitij-srinivasan-b84449281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitij24.srinivasan@gmail.com) 
