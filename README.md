@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitij</h1>
 
 # 💫 About Me:
-I am a third year student at VIT Chennai pursuing B.Tech in Computer Science and Engineering with strong interests in machine learning, robotics, and software development. <br>I'm eager to new technologies to strengthen my technical foundation and practical skils. <br>I'm also passionate about building smart systems and exploring how emerging technologies can solve real-world problems.<br><br>What I’m Looking For:<br>Project collaborations in ML or software development or robotics<br>Mentorship from professionals in tech and research<br>Opportunities to apply my skills in real-world scenarios and grow through hands-on learning
+I am a third year student at VIT Chennai pursuing B.Tech in Computer Science and Engineering with strong interests in machine learning, robotics, and software development. <br>I'm eager to new technologies to strengthen my technical foundation and practical skills. <br>I'm also passionate about building smart systems and exploring how emerging technologies can solve real-world problems.<br><br>What I’m Looking For:<br>Project collaborations in ML or software development or robotics<br>Mentorship from professionals in tech and research<br>Opportunities to apply my skills in real-world scenarios and grow through hands-on learning
 
 
 ## 🌐 Socials:
