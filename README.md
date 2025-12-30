@@ -13,7 +13,7 @@ I am a pre-final year student pursuing B.Tech in Computer Science and Engineerin
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ksh-20&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ksh-20&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ksh-20&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh-20&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
