@@ -57,31 +57,40 @@ I enjoy taking ideas from concept → implementation → deployment and explorin
 <p align="center"> <i>A selection of projects showcasing my work across AI/ML, software development, and intelligent systems.</i> </p>
 <table> <tr> <td width="50%" valign="top">
         
-## 🧠 Zenify
-A modern software project focused on building an interactive and user-oriented application.
-Tech: JavaScript
-<a href="https://github.com/ksh-20/zenify"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" /> </a>
+## OptimizeIT - A File Size Adjuster Application
+OptimizeIT is a full-stack web application that enables users to intelligently increase or decrease the size of Images, PDF documents, and Word (DOCX) files based on a user-defined target size.
+Tech Stack:  
+Frontend: React.js (Vite), Axios, Modern CSS  
+Backend: FastAPI (Python)  
+Libraries: Pillow, PyMuPDF, pikepdf, python-docx, OpenCV  
+Deployment: Render (Frontend & Backend)  
+<a href="=https://github.com/ksh-20/File-Size-Adjuster"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" /> </a>
 </td>
 <td width="50%" valign="top">
 
-## 🌱 Environment Monitoring System
-An IoT-oriented project designed for environmental monitoring using embedded systems.
-Tech: C++ • Arduino • IoT
-<a href="https://github.com/ksh-20/Environment_Monitoring_System"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" /> </a>
+## CommandBot - An AI-Powered Voice Control Robot
+CommandBot - A Voice-Controlled Robot using Gemini AI is an intelligent robotics system that enables users to control a mobile robot using natural language voice commands over WiFi. The system leverages Google Gemini AI to interpret spoken instructions and convert them into safe, structured robot actions, combining high-level AI reasoning with low-level embedded control.
+Tech Stack: Arduino / ESP32, C++, Python, Google Gemini API, Ultrasonic Sensor, L298N Motor Driver, DC Motors
+<a href="https://github.com/ksh-20/CommandBot"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" /> </a>
 </td> </tr>
 <tr> <td width="50%" valign="top">
 
-## 📦 Logistic Order Status Prediction
-A machine learning project focused on predicting logistics/order-related outcomes from data.
-Tech: Python • Jupyter Notebook • Machine Learning
+## SendIt - A Real-Time File Sharing Platform
+SendIt is a secure, real-time file sharing web application that enables users to transfer files across devices using a temporary PIN, without requiring user authentication or permanent storage. The system supports cross-network file transfers and focuses on simplicity, security, and low-latency communication.
+Tech Stack: React.js, TypeScript, Node.js, Express.js, Socket.IO, CSS, Render
 <a href="https://github.com/ksh-20/Logistic_OrderStatus_Prediction"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" /> </a>
 </td>
 <td width="50%" valign="top">
 
-## 📡 Morse Code
-An embedded systems project implementing Morse code functionality.
-Tech: C++ • Embedded Systems
-<a href="https://github.com/ksh-20/Morse_Code"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" /> </a>
+## SQLify - A Natural Language to SQL Query Generating AI Agent
+AI SQL Assistant is a full-stack AI application that enables users to interact with relational databases using plain English instead of writing SQL manually.
+Unlike traditional text-to-SQL systems, the assistant is schema-aware, meaning it dynamically understands the connected database structure before generating SQL queries. The generated SQL is validated, explained, and executed securely using a read-only database connection.
+Tech Stack:  
+Frontend: Next.js, TypeScript, TailwindCSS
+Backend: Python, FastAPI
+Database: PostgresSQL, SQLAlchemy
+AI/ML - Python, Gemini API, LangChain, LangGraph
+<a href="https://github.com/ksh-20/SQLify"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" /> </a>
 </td> </tr> </table>
 
 <p align="center"> <a href="https://github.com/ksh-20?tab=repositories"> <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
