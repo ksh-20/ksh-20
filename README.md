@@ -127,8 +127,8 @@ Tech: C++ • Embedded Systems
 
 # 🧠 What I Work With
 ```
-Artificial Intelligence
-        │
+        Artificial Intelligence
+                │
         ├── Machine Learning
         ├── Deep Learning
         ├── Generative AI
@@ -145,8 +145,8 @@ Artificial Intelligence
                 ▼
         Hardware & Edge
                 │
+                ▼
         ├── IoT
-        ├── Arduino
         ├── Embedded Systems
         └── Robotics
 ```
