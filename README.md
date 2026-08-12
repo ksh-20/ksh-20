@@ -2,7 +2,7 @@
 
 <p align="center"> <b>AI/ML Engineer • Full Stack Developer • Robotics & IoT Enthusiast</b> </p>
 
-<p align="center"> <a href="https://github.com/ksh-20"> <img src="https://img.shields.io/github/followers/ksh-20?label=Followers&style=for-the-badge&logo=github" /> </a> <a href="https://github.com/ksh-20?tab=repositories"> <img src="https://img.shields.io/badge/Public%20Repos-35-blue?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/kshitij-s24"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:kshitij24.srinivasan@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://github.com/ksh-20"> <img src="https://img.shields.io/github/followers/ksh-20?label=Followers&style=for-the-badge&logo=github" /> </a> <a href="https://github.com/ksh-20?tab=repositories"> <img src="https://img.shields.io/badge/Public%20Repos-35-blue?style=for-the-badge&logo=github" /> </a> </p>
 
 ---
 
@@ -60,7 +60,7 @@ I enjoy taking ideas from concept → implementation → deployment and explorin
 # 🚀 Featured Projects
 <p align="center"> <i>A selection of projects showcasing my work across AI/ML, software development, IoT, and systems.</i> </p>
 <table> <tr> <td width="50%" valign="top">
-
+        
 ## 🧠 Zenify
 A modern software project focused on building an interactive and user-oriented application.
 Tech: JavaScript
@@ -82,11 +82,12 @@ Tech: Python • Jupyter Notebook • Machine Learning
 </td>
 <td width="50%" valign="top">
 
-##📡 Morse Code
+## 📡 Morse Code
 An embedded systems project implementing Morse code functionality.
 Tech: C++ • Embedded Systems
 <a href="https://github.com/ksh-20/Morse_Code"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" /> </a>
 </td> </tr> </table>
+
 <p align="center"> <a href="https://github.com/ksh-20?tab=repositories"> <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
 ---
