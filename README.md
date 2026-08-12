@@ -80,9 +80,13 @@ A machine learning project focused on predicting logistics/order-related outcome
 Tech: Python • Jupyter Notebook • Machine Learning
 <a href="https://github.com/ksh-20/Logistic_OrderStatus_Prediction"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" /> </a>
 </td>
-<td width="50%" valign="top"></td> 
-</tr> </table>
+<td width="50%" valign="top">
 
+##📡 Morse Code
+An embedded systems project implementing Morse code functionality.
+Tech: C++ • Embedded Systems
+<a href="https://github.com/ksh-20/Morse_Code"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" /> </a>
+</td> </tr> </table>
 <p align="center"> <a href="https://github.com/ksh-20?tab=repositories"> <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
 ---
