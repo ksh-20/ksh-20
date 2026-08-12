@@ -54,7 +54,7 @@ I enjoy taking ideas from concept → implementation → deployment and explorin
 ---
 
 # 🚀 Featured Projects
-<p align="center"> <i>A selection of projects showcasing my work across AI/ML, software development, IoT, and systems.</i> </p>
+<p align="center"> <i>A selection of projects showcasing my work across AI/ML, software development, and intelligent systems.</i> </p>
 <table> <tr> <td width="50%" valign="top">
         
 ## 🧠 Zenify
