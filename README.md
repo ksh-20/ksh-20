@@ -120,12 +120,13 @@ Tech: C++ • Embedded Systems
 ## 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-##🔌 IoT & Robotics
+## 🔌 IoT & Robotics
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ---
 
 # 🧠 What I Work With
+```
 Artificial Intelligence
         │
         ├── Machine Learning
@@ -148,6 +149,7 @@ Artificial Intelligence
         ├── Arduino
         ├── Embedded Systems
         └── Robotics
+```
 
 ---
         
