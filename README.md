@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kshitij</h1>
 
-<p align="center"> <b>AI/ML Engineer • Full Stack Developer • Robotics & IoT Enthusiast</b> </p>
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Robotics+&+IoT+Enthusiast;Researcher+%7C+Innovator;Engineering)](https://git.io/typing-svg)
+</div>
 
 <p align="center"> <a href="https://github.com/ksh-20"> <img src="https://img.shields.io/github/followers/ksh-20?label=Followers&style=for-the-badge&logo=github" /> </a> <a href="https://github.com/ksh-20?tab=repositories"> <img src="https://img.shields.io/badge/Public%20Repos-35-blue?style=for-the-badge&logo=github" /> </a> </p>
 
