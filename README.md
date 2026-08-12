@@ -7,26 +7,25 @@
 ---
 
 # 💫 About Me
-I'm a final-year B.Tech Computer Science and Engineering student passionate about building intelligent, scalable, and practical software systems.
+I'm a final-year B.Tech Computer Science and Engineering student passionate about building intelligent, scalable, and practical software systems.  
 
-My primary interests include:
+My primary interests include:  
+🤖 Artificial Intelligence & Machine Learning  
+🧠 Deep Learning & Generative AI  
+⚙️ Backend & Full Stack Development  
+🔌 Embedded Systems, IoT & Robotics  
+☁️ Cloud Computing  
+📊 Data Science & Analytics  
+🔐 Secure and reliable software systems  
 
-🤖 Artificial Intelligence & Machine Learning
-🧠 Deep Learning & Generative AI
-⚙️ Backend & Full Stack Development
-🔌 Embedded Systems, IoT & Robotics
-☁️ Cloud Computing
-📊 Data Science & Analytics
-🔐 Secure and reliable software systems
+I enjoy taking ideas from concept → implementation → deployment and exploring how emerging technologies can solve real-world problems.  
 
-I enjoy taking ideas from concept → implementation → deployment and exploring how emerging technologies can solve real-world problems.
-
-🚀 What I'm Looking For
-🤝 Project collaborations in ML, AI, software development, or robotics
-🧑‍💻 Opportunities to work on challenging real-world engineering problems
-🧠 Mentorship from professionals in technology and research
-🔬 Opportunities to explore AI/ML research and intelligent systems
-🌱 Continuous learning and hands-on engineering experience
+🚀 What I'm Looking For  
+🤝 Project collaborations in AI/ML, software development or robotics  
+🧑‍💻 Opportunities to work on challenging real-world engineering problems  
+🧠 Mentorship from professionals in technology and research  
+🔬 Opportunities to explore AI/ML research and intelligent systems  
+🌱 Continuous learning and hands-on engineering experience  
 
 ---
 
