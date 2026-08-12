@@ -24,13 +24,6 @@ My primary interests include:
 
 I enjoy taking ideas from concept → implementation → deployment and exploring how emerging technologies can solve real-world problems.  
 
-🚀 What I'm Looking For  
-🤝 Project collaborations in AI/ML, software development or robotics  
-🧑‍💻 Opportunities to work on challenging real-world engineering problems  
-🧠 Mentorship from professionals in technology and research  
-🔬 Opportunities to explore AI/ML research and intelligent systems  
-🌱 Continuous learning and hands-on engineering experience  
-
 ---
 
 # 🌐 Connect with Me
