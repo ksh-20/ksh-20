@@ -41,7 +41,7 @@ I enjoy taking ideas from concept → implementation → deployment and explorin
 
 ---
 
-#📈 Contribution Activity
+# 📈 Contribution Activity
 ## 🔥 Contribution Streak
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=ksh-20&theme=github-dark-blue&hide_border=true&mode=weekly" /> </p>
 
