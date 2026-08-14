@@ -86,14 +86,14 @@ Tech Stack: React.js, TypeScript, Node.js, Express.js, Socket.IO, CSS, Render
 </td>
 <td width="50%" valign="top">
 
-## SQLify - A Natural Language to SQL Query Generating AI Agent
-AI SQL Assistant is a full-stack AI application that enables users to interact with relational databases using plain English instead of writing SQL manually.
+## SQLify - An Agentic AI based SQL Assistant
+SQLify is a full-stack AI application that enables users to interact with relational databases using plain English instead of writing SQL manually.
 Unlike traditional text-to-SQL systems, the assistant is schema-aware, meaning it dynamically understands the connected database structure before generating SQL queries. The generated SQL is validated, explained, and executed securely using a read-only database connection.
 Tech Stack:  
-Frontend: Next.js, TypeScript, TailwindCSS
-Backend: Python, FastAPI
-Database: PostgresSQL, SQLAlchemy
-AI/ML - Python, Gemini API, LangChain, LangGraph
+Frontend: TypeScript, Next.js, TailwindCSS
+Backend: Python, FastAPI, SQLAlchemy
+Database: PostgresSQL, MySQL, SQLite
+AI/ML - Python, Gemini API, LangChain, LangGraph, Guardrails
 <a href="https://github.com/ksh-20/SQLify"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" /> </a>
 </td> </tr> </table>
 
