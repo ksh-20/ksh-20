@@ -6,7 +6,7 @@
 
 </div>
 
-<p align="center"> <a href="https://github.com/ksh-20"> <img src="https://img.shields.io/github/followers/ksh-20?label=Followers&style=for-the-badge&logo=github" /> </a> <a href="https://github.com/ksh-20?tab=repositories"> <img src="https://img.shields.io/badge/Public%20Repos-34-blue?style=for-the-badge&logo=github" /> </a> </p>
+<p align="center"> <a href="https://github.com/ksh-20"> <img src="https://img.shields.io/github/followers/ksh-20?label=Followers&style=for-the-badge&logo=github" /> </a> <a href="https://github.com/ksh-20?tab=repositories"> <img src="https://img.shields.io/badge/Public%20Repos-35-blue?style=for-the-badge&logo=github" /> </a> </p>
 
 ---
 
