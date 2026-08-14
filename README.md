@@ -32,8 +32,10 @@ I enjoy taking ideas from concept → implementation → deployment and explorin
 ---
 
 # 📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ksh-20&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksh-20&theme=github_dark&hide_border=true&layout=compact&langs_count=10" height="180"/> </p>
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=ksh-20&theme=github-dark-blue&hide_border=true" /> </p>
+<p align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
+</p>
 
 ## ⭐ Repository & Contribution Highlights
 <p align="center"> <img src="https://img.shields.io/github/stars/ksh-20?style=for-the-badge&logo=github&label=Profile%20Stars" /> <img src="https://img.shields.io/github/followers/ksh-20?style=for-the-badge&logo=github&label=Followers" /> <img src="https://img.shields.io/github/commit-activity/y/ksh-20/ksh-20?style=for-the-badge&logo=github&label=Profile%20Commits" /> <img src="https://img.shields.io/github/last-commit/ksh-20/ksh-20?style=for-the-badge&logo=github&label=Last%20Updated" /> </p>
@@ -43,7 +45,9 @@ I enjoy taking ideas from concept → implementation → deployment and explorin
 
 # 📈 Contribution Activity
 ## 🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=ksh-20&theme=github-dark-blue&hide_border=true&mode=weekly" /> </p>
+<p align="center">
+  <img src="./profile/streak.svg" />
+</p>
 
 ## 📅 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksh-20&theme=github-compact&hide_border=true&area=true&custom_title=Kshitij's%20Contribution%20Graph" /> </p>
@@ -179,12 +183,16 @@ AI/ML - Python, Gemini API, LangChain, LangGraph
 ---
 
 # ✍️ Random Dev Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
+<p align="center"> 
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> 
+</p>
 
 ---
 
 # 👀 Profile Visitors
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=ksh-20&icon=0&color=0" /> </p>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ksh-20&icon=0&color=0" />
+</p>
 
 ---
 
