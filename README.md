@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kshitij</h1>
+<h1 align="center">Hi <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px">, I'm Kshitij</h1>
 
 <div align="center">
         
