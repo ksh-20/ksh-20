@@ -11,7 +11,7 @@
 ---
 
 # 💫 About Me
-I'm a final-year B.Tech Computer Science and Engineering student passionate about building intelligent, scalable, and practical software systems.  
+I'm a final-year Computer Science and Engineering student passionate about building intelligent, scalable, and practical software systems.  
 
 My primary interests include:  
 🤖 Artificial Intelligence & Machine Learning  
