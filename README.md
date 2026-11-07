@@ -6,8 +6,6 @@
 
 </div>
 
-<p align="center"> <a href="https://github.com/ksh-20"> <img src="https://img.shields.io/github/followers/ksh-20?label=Followers&style=for-the-badge&logo=github" /> </a> </p>
-
 ---
 
 # 💫 About Me
